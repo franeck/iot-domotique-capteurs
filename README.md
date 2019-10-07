@@ -1,4 +1,4 @@
-# Projet IOT Alarme - Serveur
+# Projet IOT Alarme - Capteurs
 
 ## Spécifications de l'api :
 > Pour communiquer avec la base

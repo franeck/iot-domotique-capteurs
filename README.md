@@ -3,22 +3,6 @@
 ## Spécifications de l'api :
 > Pour communiquer avec la base
 
-GET /log
-```json
-  {
-    "events": [
-      {
-        "opening": Boolean,
-        "time": Long
-      },
-      {
-        ...
-      }
-    ],
-    "up": true
-  }
-```
-
 GET /state
 ```json
   {
